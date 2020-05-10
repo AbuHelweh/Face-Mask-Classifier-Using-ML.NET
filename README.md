@@ -29,6 +29,6 @@ Face-Mask-Classifier-Using-ML.NET
 <img src="./Screenshots/screen5.png"/>
 
 <img src="./Screenshots/2.jpg"/>
-<img src="./Screenshots/Test2.jpg"/>
+<img src="./Screenshots/Test2.png"/>
 
 
